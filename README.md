@@ -15,4 +15,3 @@ Requiere de la librería PIL (Python Image Library) que puedes descargar desde: 
 
 <h3>Ejemplos</h3>
 <p>Gioconda: http://juanescalona.com/gioconda-css.html</p>
-<p>Sasha Grey (algo más elegante): http://juanescalona.com/sasha.html</p>
