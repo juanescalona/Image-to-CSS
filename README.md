@@ -13,5 +13,6 @@ Convierte los pixeles de una imagen en una archivo HTML con CSS para cada pixel.
 <h3>Requerimientos</h3>
 Requiere de la librería PIL (Python Image Library) que puedes descargar desde:  http://www.pythonware.com/products/pil/
 
-<h3>Ejemplos<h3>
-http://juanescalona.com/gioconda-css.html
+<h3>Ejemplos</h3>
+Gioconda: http://juanescalona.com/gioconda-css.html
+Sasha Grey (algo más elegante): http://juanescalona.com/sasha.html
