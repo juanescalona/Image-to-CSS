@@ -6,7 +6,6 @@ parser = argparse.ArgumentParser(description='Debes ingresar las opciones requer
 parser.add_argument('-i','--input', help='Imagen a seleccionar',required=True)
 parser.add_argument('-o','--output',help='Archivo HTML a generar', required=True)
 args = parser.parse_args()
-
 print ("Input file: %s" % args.input )
 print ("Output file: %s" % args.output )
 
