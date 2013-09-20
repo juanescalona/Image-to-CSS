@@ -7,7 +7,6 @@ parser.add_argument('-i','--input', help='Imagen a seleccionar',required=True)
 parser.add_argument('-o','--output',help='Archivo HTML a generar', required=True)
 args = parser.parse_args()
 
-## show values ##
 print ("Input file: %s" % args.input )
 print ("Output file: %s" % args.output )
 
